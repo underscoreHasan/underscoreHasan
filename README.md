@@ -11,8 +11,9 @@ I'm Hasan Noor, a second year CS student at the University of British Columbia. 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username={underscoreHasan}&theme={dark})
 
 <!--
 **underscoreHasan/underscoreHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
