@@ -2,8 +2,6 @@
 
 I'm Hasan Noor, a third year CS student at the University of British Columbia. I'm interested in web development, front-end, UI/UX design and learning new programming languages!
 
-### Resume [here](https://underscorehasan.github.io/resume/resume.pdf)! 📜
-
 ### Languages, Tools and Frameworks:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
